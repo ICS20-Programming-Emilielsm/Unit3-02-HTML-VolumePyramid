@@ -1,0 +1,25 @@
+body {
+	background-color: rgb(65, 113, 84);
+}
+
+h1 {
+	background-color: rgb(208, 199, 174);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #cbc2b3;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 5px;
+}
+
+#display-results{
+  background-color: #c5aba0;
+}
